@@ -90,6 +90,6 @@ Dynamic slicers and dropdowns enable flexible data exploration.
 ## 📌 Project Status
 
 ✅ Completed — Ready for review and deployment  
-📂 Includes `.pbix` file, cleaned dataset, and project documentation
+📂 Includes `.pbix` file
 
 ---
